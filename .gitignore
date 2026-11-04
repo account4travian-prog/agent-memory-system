@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.db
+scan-state.json
+reviewed-candidates.jsonl
+.env
+.env.*
+*.log
+venv/
+.venv/
